@@ -4,4 +4,4 @@ A school project utilizing front-end frameworks and PHP with a database to creat
 
 ## Installation:
 
-Use npm install to install all required dependencies.
+Use `npm install` to install all required dependencies.
